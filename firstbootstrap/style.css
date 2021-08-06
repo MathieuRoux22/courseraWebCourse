@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.logodiv {
+    float:left;
+    width:50%;
+}
+
+nav {
+    float:right;
+    width:50%;
+}
