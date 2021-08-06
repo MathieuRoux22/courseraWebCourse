@@ -44,6 +44,8 @@ li.nav-item {
 li.nav-item a {
     color: black;
     text-decoration: none;
+    display: block;
+    text-align: center;
 }
 
 #ContentRows {
